@@ -1,0 +1,41 @@
+*{
+    
+    background-image: url(".../img/Imagen.jpg")
+}
+
+body{
+    
+    background-color: whitesmoke;
+    color:black;
+}
+h2{
+     background-color: lightgreen;
+    color:black;
+}
+
+#encabezado{
+    
+    background-color: red;
+    color:white; 
+}
+
+title{
+    
+     background-color: lightgreen;
+    color:black;
+}
+
+h1{
+     background-color: lightgreen;
+    color:black;
+}
+
+h3{
+     background-color: lightgreen;
+    color:black;
+}
+
+h4{
+     background-color: lightgreen;
+    color:black;
+}
